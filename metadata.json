@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VibeLearn Student Platform",
+  "description": "A comprehensive student engagement platform designed to encourage learning, collaboration, and progress tracking. It includes creative game modules, impulse quizzes, file sharing, and integrated team calls to create a dynamic and interactive learning environment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
